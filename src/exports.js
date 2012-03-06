@@ -1,5 +1,5 @@
 (function( jQuery ) {
-
+// so less code a file....
 // Expose jQuery to the global object
 window.jQuery = window.$ = jQuery;
 
